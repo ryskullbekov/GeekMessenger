@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TelegramLocalization</string>
+    <string name="hello">Привет</string>
+    <string name="languages">Язык</string>
+
+
+</resources>
